@@ -9,6 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/SQL--black?style=flat&logo=postgresql&logoColor=1E2FA0&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Docker--black?style=flat&logo=docker&logoColor=0621CE&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Cassandra--black?style=flat&logo=apachecassandra&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Redis--black?style=flat&logo=redis&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Linux--black?style=flat&logo=linux&labelColor=black&color=black)
 
 
 <!--
