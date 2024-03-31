@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Cassandra--black?style=flat&logo=apachecassandra&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Redis--black?style=flat&logo=redis&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Linux--black?style=flat&logo=linux&labelColor=black&color=black)
-
+![Static Badge](https://img.shields.io/badge/Postman--black?style=flat&logo=postman&labelColor=black&color=black)
 
 <!--
 **NadarKanloev/NadarKanloev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
