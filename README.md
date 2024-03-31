@@ -1,6 +1,9 @@
 # Приветствую
 
-## Студент 4 курса НИТУ "МИСиС" направления "Информатика и вычислительная техника", Москва Россия. Backend-разработчик с уклоном в JVM языки. Знаком с такими технологиями как PostgreSQL, Redis, Cassandra, REST, Docker, Linux,  Git
+##№ Студент 4 курса НИТУ "МИСиС" направления "Информатика и вычислительная техника", Москва Россия. Backend-разработчик с уклоном в JVM языки. Знаком с такими технологиями как PostgreSQL, Redis, Cassandra, REST, Docker, Linux,  Git
+### Languages and Tools:
+![Static Badge](https://img.shields.io/badge/spring--boot-black?style=flat&logo=spring-boot&logoColor=white&labelColor=black)
+
 <!--
 **NadarKanloev/NadarKanloev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
