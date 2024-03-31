@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/spring--security-black?style=flat&logo=spring-security&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SQL--black?style=flat&logo=postgresql&logoColor=1E2FA0&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Docker--black?style=flat&logo=docker&logoColor=0621CE&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Cassandra--black?style=flat&logo=apachecassandra&labelColor=black&color=black)
 
 
 <!--
