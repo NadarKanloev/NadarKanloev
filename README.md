@@ -16,8 +16,8 @@
 ### Socials
 
 
-![Static Badge](https://img.shields.io/badge/Telegram--black?style=flat&logo=telegram&labelColor=black&color=black&link=https%3A%2F%2Ft.me%2FBeBentumT)
-![Static Badge](https://img.shields.io/badge/VK-black?style=flat&logo=vk&labelColor=black&color=black&link=https%3A%2F%2Fvk.com%2Fnadar_kanloev)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BeBentumT)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/nadar_kanloev)
 
 <!--
 **NadarKanloev/NadarKanloev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
