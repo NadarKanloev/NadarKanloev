@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Linux--black?style=flat&logo=linux&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Postman--black?style=flat&logo=postman&labelColor=black&color=black)
 
-Socials
+### Socials
 
 
 ![Static Badge](https://img.shields.io/badge/Telegram--black?style=flat&logo=telegram&labelColor=black&color=black&link=https%3A%2F%2Ft.me%2FBeBentumT)
