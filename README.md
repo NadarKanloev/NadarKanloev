@@ -2,7 +2,6 @@
 
 ## Студент 4 курса НИТУ "МИСиС" направления "Информатика и вычислительная техника", Москва, Россия. Backend-разработчик с уклоном в JVM языки. Знаком с такими технологиями как PostgreSQL, Redis, Cassandra, REST, Docker, Linux,  Git
 ### Languages and Tools:
-![image](https://github.com/NadarKanloev/NadarKanloev/assets/44449982/73265b09-4a7e-4a61-865c-5ee69bca3d23)
 ![Static Badge](https://img.shields.io/badge/Kotlin--black?style=flat&logo=kotlin&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Spring--boot-black?style=flat&logo=spring-boot&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Spring--security-black?style=flat&logo=spring-security&logoColor=white&labelColor=black)
