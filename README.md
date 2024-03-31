@@ -14,7 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/Postman--black?style=flat&logo=postman&labelColor=black&color=black)
 
 Socials
-//
+
+
 ![Static Badge](https://img.shields.io/badge/Telegram--black?style=flat&logo=telegram&labelColor=black&color=black&link=https%3A%2F%2Ft.me%2FBeBentumT)
 ![Static Badge](https://img.shields.io/badge/VK--black?style=flat&logo=vk&labelColor=black&color=black&link=https%3A%2F%2Fvk.com%2Fnadar_kanloev)
 
